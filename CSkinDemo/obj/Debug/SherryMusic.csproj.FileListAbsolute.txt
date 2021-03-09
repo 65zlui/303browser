@@ -1,0 +1,31 @@
+F:\复习资料\C#作业\实验田\雪莉音乐\CSkinDemo\bin\Debug\雪莉音乐.exe.config
+F:\复习资料\C#作业\实验田\雪莉音乐\CSkinDemo\bin\Debug\雪莉音乐.exe
+F:\复习资料\C#作业\实验田\雪莉音乐\CSkinDemo\bin\Debug\雪莉音乐.pdb
+F:\复习资料\C#作业\实验田\雪莉音乐\CSkinDemo\obj\Debug\SherryMusic.Properties.Resources.resources
+F:\复习资料\C#作业\实验田\雪莉音乐\CSkinDemo\obj\Debug\SherryMusic.csproj.GenerateResource.cache
+F:\复习资料\C#作业\实验田\雪莉音乐\CSkinDemo\obj\Debug\SherryMusic.csproj.CoreCompileInputs.cache
+F:\复习资料\C#作业\实验田\雪莉音乐\CSkinDemo\obj\Debug\SherryMusic.csproj.CopyComplete
+F:\复习资料\C#作业\实验田\雪莉音乐\CSkinDemo\obj\Debug\雪莉音乐.exe
+F:\复习资料\C#作业\实验田\雪莉音乐\CSkinDemo\obj\Debug\雪莉音乐.pdb
+F:\复习资料\C#作业\实验田\雪莉音乐\CSkinDemo\obj\Debug\CSkinDemo.Form.resources
+F:\C# Visual\实验田\雪莉音乐\CSkinDemo\bin\Debug\雪莉音乐.exe.config
+F:\C# Visual\实验田\雪莉音乐\CSkinDemo\bin\Debug\雪莉音乐.exe
+F:\C# Visual\实验田\雪莉音乐\CSkinDemo\bin\Debug\雪莉音乐.pdb
+F:\C# Visual\实验田\雪莉音乐\CSkinDemo\obj\Debug\SherryMusic.Properties.Resources.resources
+F:\C# Visual\实验田\雪莉音乐\CSkinDemo\obj\Debug\SherryMusic.csproj.GenerateResource.cache
+F:\C# Visual\实验田\雪莉音乐\CSkinDemo\obj\Debug\SherryMusic.csproj.CoreCompileInputs.cache
+F:\C# Visual\实验田\雪莉音乐\CSkinDemo\obj\Debug\SherryMusic.csproj.CopyComplete
+F:\C# Visual\实验田\雪莉音乐\CSkinDemo\obj\Debug\雪莉音乐.exe
+F:\C# Visual\实验田\雪莉音乐\CSkinDemo\obj\Debug\雪莉音乐.pdb
+F:\C# Visual\实验田\雪莉音乐\CSkinDemo\obj\Debug\SherryMusic.Form.resources
+C:\Users\recZ\Downloads\SherryMusic-PC-master\CSkinDemo\bin\Debug\雪莉音乐.exe.config
+C:\Users\recZ\Downloads\SherryMusic-PC-master\CSkinDemo\bin\Debug\雪莉音乐.exe
+C:\Users\recZ\Downloads\SherryMusic-PC-master\CSkinDemo\bin\Debug\雪莉音乐.pdb
+C:\Users\recZ\Downloads\SherryMusic-PC-master\CSkinDemo\obj\Debug\SherryMusic.csprojAssemblyReference.cache
+C:\Users\recZ\Downloads\SherryMusic-PC-master\CSkinDemo\obj\Debug\SherryMusic.Form.resources
+C:\Users\recZ\Downloads\SherryMusic-PC-master\CSkinDemo\obj\Debug\SherryMusic.Properties.Resources.resources
+C:\Users\recZ\Downloads\SherryMusic-PC-master\CSkinDemo\obj\Debug\SherryMusic.csproj.GenerateResource.cache
+C:\Users\recZ\Downloads\SherryMusic-PC-master\CSkinDemo\obj\Debug\SherryMusic.csproj.CoreCompileInputs.cache
+C:\Users\recZ\Downloads\SherryMusic-PC-master\CSkinDemo\obj\Debug\SherryMusic.csproj.CopyComplete
+C:\Users\recZ\Downloads\SherryMusic-PC-master\CSkinDemo\obj\Debug\雪莉音乐.exe
+C:\Users\recZ\Downloads\SherryMusic-PC-master\CSkinDemo\obj\Debug\雪莉音乐.pdb

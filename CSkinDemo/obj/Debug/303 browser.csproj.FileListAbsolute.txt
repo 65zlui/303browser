@@ -1,0 +1,11 @@
+C:\Users\recZ\Downloads\303_browser\CSkinDemo\obj\Debug\303 browser.csprojAssemblyReference.cache
+C:\Users\recZ\Downloads\303_browser\CSkinDemo\obj\Debug\SherryMusic.Properties.Resources.resources
+C:\Users\recZ\Downloads\303_browser\CSkinDemo\obj\Debug\303 browser.csproj.GenerateResource.cache
+C:\Users\recZ\Downloads\303_browser\CSkinDemo\obj\Debug\303 browser.csproj.CoreCompileInputs.cache
+C:\Users\recZ\Downloads\303_browser\CSkinDemo\obj\Debug\雪莉音乐.exe
+C:\Users\recZ\Downloads\303_browser\CSkinDemo\obj\Debug\雪莉音乐.pdb
+C:\Users\recZ\Downloads\303_browser\CSkinDemo\bin\Debug\雪莉音乐.exe.config
+C:\Users\recZ\Downloads\303_browser\CSkinDemo\bin\Debug\雪莉音乐.exe
+C:\Users\recZ\Downloads\303_browser\CSkinDemo\bin\Debug\雪莉音乐.pdb
+C:\Users\recZ\Downloads\303_browser\CSkinDemo\obj\Debug\SherryMusic.Form.resources
+C:\Users\recZ\Downloads\303_browser\CSkinDemo\obj\Debug\303 browser.csproj.CopyComplete
